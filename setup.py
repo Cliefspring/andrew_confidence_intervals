@@ -10,11 +10,11 @@ classifiers = [
  
 setup(
   name='andrew_confidence_intervals',
-  version='0.0.5',
+  version='0.0.6',
   description='Package for calculation of confidence intervals.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type = 'text/x-rst',
-  url='',  
+  url='https://github.com/Cliefspring/andrew_confidence_intervals',  
   author='Andrey Vazhentsev',
   author_email='vazhentsev@inbox.ru',
   license='MIT', 
